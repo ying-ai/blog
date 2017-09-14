@@ -1,0 +1,39 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to ying-ai's blog!\n\n\n\n\nMAKE LIVES BETTER! MAKE WORLD BETTER!",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-ying-ais-blog",
+            "text": "MAKE LIVES BETTER! MAKE WORLD BETTER!",
+            "title": "Welcome to ying-ai's blog!"
+        },
+        {
+            "location": "/my_projects/",
+            "text": "PeaceRunner\n\n\nArkPose\n\n\nSmart.Ad\n\n\nArkHand",
+            "title": "My Projects"
+        },
+        {
+            "location": "/my_projects/#peacerunner",
+            "text": "",
+            "title": "PeaceRunner"
+        },
+        {
+            "location": "/my_projects/#arkpose",
+            "text": "",
+            "title": "ArkPose"
+        },
+        {
+            "location": "/my_projects/#smartad",
+            "text": "",
+            "title": "Smart.Ad"
+        },
+        {
+            "location": "/my_projects/#arkhand",
+            "text": "",
+            "title": "ArkHand"
+        }
+    ]
+}
